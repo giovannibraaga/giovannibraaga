@@ -2,7 +2,7 @@
 
 ##
 
-### Contato/Redes:
+### Contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannibraga/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanni_braaga/)
@@ -20,4 +20,4 @@
 <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannibraaga&hide_progress=true)
+![Giovanni Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannibraaga&hide_progress=true)
