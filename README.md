@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannibraga/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanni_braaga/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/semlimiteplays?si=f02e6e81db194e7b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](giovannibraga6@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannibraga6@gmail.com)
 
 ##
 
@@ -21,4 +21,3 @@
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannibraaga&hide_progress=true)
-
