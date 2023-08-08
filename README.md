@@ -1,4 +1,5 @@
 ![Giovanni GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannibraaga&show_icons=true&theme=merko)
+![Giovanni Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannibraaga&hide_progress=true&theme=merko)
 
 ##
 
@@ -19,8 +20,6 @@
 <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br/>
-
-![Giovanni Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannibraaga&hide_progress=true)
 
 <picture>
   <source
