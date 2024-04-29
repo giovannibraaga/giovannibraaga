@@ -1,4 +1,4 @@
-<a href="https://github.com/giovannibraaga"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=72F18F&height=180&section=header&text=Bem+Vindo!&fontSize=30&fontColor=00ff37&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/giovannibraaga"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=72F18F&height=180&section=header&text=Welcome!&fontSize=30&fontColor=00ff37&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
   
