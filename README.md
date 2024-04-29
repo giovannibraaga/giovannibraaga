@@ -69,6 +69,6 @@
   />
 </picture>
 
-<a href="https://github.com/KAYOKG">
+<a href="https://github.com/giovannibraaga">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=72F18F&height=180&section=footer&text=Inove.+Inspect.+Inspire&fontSize=30&fontColor=00ff37&animation=twinkling&fontAlignY=55"/>
 </a>
